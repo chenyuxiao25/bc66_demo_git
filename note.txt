@@ -1,0 +1,14 @@
+git version  control system (phan mmen quan ly code)
+
+github la noi luu tru onlinedfgs
+repositiry  foder tuong tac voi git
+reop local :folder chua souce code tren github
+repo remote     project tren github 
+branch nhanh ban sao tao nhanh moi kgi can fix bug /feature  
+
+
+
+
+
+day code len githujb push 
+lay code tu github vef
