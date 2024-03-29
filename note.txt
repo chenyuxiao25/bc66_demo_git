@@ -12,3 +12,9 @@ branch nhanh ban sao tao nhanh moi kgi can fix bug /feature
 
 day code len githujb push 
 lay code tu github vef
+
+branch nhanh 
+git push -u origin master
+
+tao nhanh khi code chuc nang moi fix bug
+git checkout  -b name
