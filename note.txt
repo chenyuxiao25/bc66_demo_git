@@ -12,3 +12,7 @@ branch nhanh ban sao tao nhanh moi kgi can fix bug /feature
 
 day code len githujb push 
 lay code tu github vef
+
+
+duan nhanh phu ve nhanb chinh 
+git merge name 
